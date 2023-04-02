@@ -1,0 +1,26 @@
+# latex/pdflatex
+*.dvi
+*.log
+*.aux
+*.pdf
+*.DS_Store
+*.synctex.gz
+*.out
+
+# bibtex
+*.bbl
+*.blg
+
+# latexmk
+*.fdb_latexmk
+*.fls
+
+# htlatex
+*.html
+*.tmp
+*.idv
+*.lg
+*.4ct
+*.4tc
+*.xref
+*.css
