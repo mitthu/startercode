@@ -1,0 +1,20 @@
+.TITLE    "My Doc"
+.AUTHOR   "Aditya Basu"
+.DRAFT     7
+.REVISION  39
+
+\#
+.DOCTYPE     DEFAULT
+.PRINTSTYLE  TYPESET
+.COPYSTYLE   DRAFT
+
+\#
+.FAMILY   H
+.PT_SIZE  12
+.LS       14
+.QUAD     LEFT    \"ie rag right
+.FOOTERS
+.LINEBREAK_CHAR *
+
+\#
+.START
