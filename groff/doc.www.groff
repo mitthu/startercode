@@ -1,0 +1,19 @@
+\# See man groff_www
+
+.HnS 1
+.HR
+GNU Troff
+.URL http://groff.ffii.org (Groff)
+- a
+.URL http://www.gnu.org/ GNU
+project.
+Hosted by
+.URL http://ffii.org/ FFII .
+.HR
+.HnE
+
+.CDS
+#!/bin/bash
+echo "some code segment"
+.CDE
+
